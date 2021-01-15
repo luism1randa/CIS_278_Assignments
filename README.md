@@ -5,9 +5,10 @@ Weekly C++ practice assignments for CIS 278
 
 ### Module 1
 Concepts Used:
-	- print to screen
-	- accept input
-	- perform operations on data
+
+- print to screen
+- accept input
+- perform operations on data
 
 1. Exercise 2.19
 	- Takes three numbers as inputs from the keyboard and prints out the sum, average, product, smallest number, and largest number.
