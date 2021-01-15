@@ -5,10 +5,10 @@ Weekly C++ practice assignments for CIS 278
 
 ### Module 1
 1. Exercise 2.19
-   - Lorem Ipsum
+	- Lorem Ipsum
 2. Exercise 2.29
     - Lorem Ipsum
 
 ### Module 2
-#### Exercise 4.14
-  - Lorem Ipsum
+1. Exercise 4.14
+	- Lorem Ipsum
