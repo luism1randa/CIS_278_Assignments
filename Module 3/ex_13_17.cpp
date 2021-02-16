@@ -1,5 +1,5 @@
 //
-//  ex_3-17.cpp
+//  ex_3_17.cpp
 //  Excercise 3.17
 //
 //  Created by Luis Miranda
