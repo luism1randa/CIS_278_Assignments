@@ -20,3 +20,11 @@ Concepts used: floating point, setprecision, while loops, sentinals,
 	- Uses a while loop with sentinal value to input an account number, balance, chages, credit, and credit limit to determine an accounts balance.
 2. Exercise 4.15
 	- Uses a while loop with sentinal value to input a salesmen's sales and calculate their earnings.
+
+### Module 3
+Concepts used: classes, headers, randomized access file (write/read), fstream, ASCII
+
+1. Exercise 13.17
+    - print out all the ASCII values from 33 to 126 in decimal, octal, hexadecimal, anc character forms into a table.
+2. Exercise 14.11
+    - Creates a randomized acess file and allows the user to add/modify records of tools with properties for ID, name, quantity, and cost.
